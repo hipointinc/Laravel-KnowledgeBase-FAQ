@@ -48,8 +48,7 @@
 <!-- COPYRIGHT INFO -->
 <div class="container-fluid footer-copyright marg30">
     <div class="container">
-        <div class="pull-left">
-            Copyright © 2018 Sunny Gohil</a>
+        <div class="pull-left"></a>
         </div>
         <div class="pull-right">
             <i class="fa fa-facebook"></i> &nbsp;
