@@ -30,8 +30,8 @@ class Tag extends Model
     {
         return $this->belongsToMany(Article::class);
     }
-    
-    public function sluggable()
+
+    public function sluggable(): array
     {
         return [
             'slug' => [
